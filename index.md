@@ -1,0 +1,51 @@
+Privacy Policy
+Last updated: January 2026
+1. Introduction
+Welcome to Ad Copy Builder (“we”, “our”, “the app”).
+Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect information when you use our ad copy generation tool.
+ 
+2. Information We Collect
+a. User Inputs
+We may collect the information you voluntarily provide, such as:
+•	Keywords
+•	Ad copy inputs (style, character limits, tone, number of variations)
+•	Campaign-related text
+This data is used only to generate ad copy and improve output quality.
+b. Personal Information
+We do not collect:
+•	Names
+•	Email addresses
+•	Phone numbers
+•	Payment details
+ 
+3. How We Use Information
+The information provided is used to:
+•	Generate advertising copy
+•	Improve the performance and accuracy of the tool
+•	Maintain and operate the service
+We do not sell, rent, or share user data with third parties for marketing purposes.
+ 
+4. Use of AI Services
+Ad Copy Builder may use third-party AI services (such as OpenAI APIs) to process user inputs and generate responses.
+These services process data according to their own privacy and security standards.
+ 
+5. Data Storage & Retention
+•	We do not intentionally store user inputs.
+•	Any temporary data processed is used only for generating responses and is not retained long-term.
+ 
+6. Cookies & Tracking
+Ad Copy Builder does not use cookies, trackers, or analytics tools to collect personal information.
+ 
+7. Data Security
+We take reasonable measures to protect the information processed through the app. However, no method of transmission over the internet is 100% secure.
+ 
+8. Children’s Privacy
+This service is not intended for individuals under the age of 13. We do not knowingly collect personal information from children.
+ 
+9. Changes to This Policy
+We may update this Privacy Policy from time to time. Any changes will be reflected on this page with an updated revision date.
+ 
+10. Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+Email: wasimppc@gmail.com
+
