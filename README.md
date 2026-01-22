@@ -1,1 +1,1 @@
-# smart-ai-adcopy-builder
+# ad-copy-builder-privacy
